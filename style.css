@@ -1,0 +1,32 @@
+button {
+	background-color: #EED6D3;
+	font-family: constantia;
+	color: #A49393;
+	font-weight: bold;
+	text-align: center;
+	
+	width: 100px;
+	height: 50px;
+	
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1 {
+	color: #EED6D3;
+	text-align: center;
+}
+
+.container {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+h4 {
+	text-align: center;
+	color: #E8B4B8;
+}
+
+body {
+	background-color: #67595E;
+}
